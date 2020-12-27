@@ -1,1 +1,0 @@
-# django-for-beginners-blog
